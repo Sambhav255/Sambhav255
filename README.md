@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a Product Manager and Fintech Enthusiast passionate about solving problems at the intersection of financial services, data analytics, and user experience. With a strong background in business strategy, financial modeling, and full-stack development, I'm focused on building innovative fintech solutions for underserved markets.
+I'm a Product Manager and Fintech Enthusiast passionate about solving problems at the intersection of financial services, data analytics, and user experience. With a strong background in business strategy, financial modeling, and product thinking and AI-assisted coding, I'm focused on building innovative fintech solutions for underserved markets.
 
 **Currently exploring:** APM roles, Product Management positions, and Data Analytics opportunities at fintech companies, investment firms, and tech companies.
 
@@ -18,8 +18,10 @@ I'm a Product Manager and Fintech Enthusiast passionate about solving problems a
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+[](url)[[[[](url)](url)](url)](url)[[[[[](url)](url)](url)](url)](url)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -54,7 +56,7 @@ Product Management · Competitive Analysis · Business Strategy · User Research
 Financial Modeling · Data Visualization (R, Sankey Diagrams) · SQL Queries · Statistical Analysis
 
 **Development:**  
-Full-Stack Development · API Integration · Backend Architecture · Git & Version Control
+product thinking and AI-assisted coding (Python, Cursor AI) · Prototyping & MVPs · GitHub Basics
 
 **Finance:**  
 DCF Analysis · Financial Statements · Fintech Market Dynamics · Payment Systems
