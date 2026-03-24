@@ -78,8 +78,7 @@ DCF Analysis · Financial Statements · Fintech Market Dynamics · Payment Syste
 ## 📫 Let's Connect!
 
 🔗 [LinkedIn](https://linkedin.com/in/sambhavlamichhane)  
-💼 [Portfolio](https://sambhav.vercel.app)  
-📧 Available for coffee chats, mentorship, and collaboration opportunities!
+🌐 [Portfolio](https://www.sambhav.app/)📧 Available for coffee chats, mentorship, and collaboration opportunities!
 
 ---
 
